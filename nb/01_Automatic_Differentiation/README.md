@@ -1,6 +1,6 @@
 # Automatic Differentiation
 
-> My code only supportd 1st order derivatives! For Machine Learning, this is perfectly fine...
+> My code only supports 1st order derivatives! For Machine Learning, this is perfectly fine...
 
 ## Topics Discussed
 - Basic Reverse mode Automatic Differentiation
